@@ -1,0 +1,23 @@
+.modal-header{
+    padding: 5px 15px;
+    background: #590a5b;
+   
+  
+}
+
+.modal-title{
+    font-size: 16px !important ;
+    color: #fff !important;
+}
+
+.close{
+    color: #ffffff;
+}
+
+.close:hover{
+    color: red;
+}
+
+.modal-footer{
+    padding: 5px 15px;
+}
